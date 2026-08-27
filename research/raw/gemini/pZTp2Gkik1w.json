@@ -1,0 +1,36 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"concept\": \"Side-by-side comparison showcasing the destruction level between an Airsoft AR and a real AR-15 on an apple.\",\n  \"exact_spoken_hook\": \"None\",\n  \"on_screen_hook\": \"AIRSOFT AR\",\n  \"visual_hook\": \"A man aggressively loads a magazine into an Airsoft AR and aims down the sight at a target.\",\n  \"tone\": \"Energetic, playful, humorous, action-packed\",\n  \"viewer_identity\": \"Firearm enthusiasts, airsoft gamers, tactical gear hobbyists, outdoor range shooters\",\n  \"audience_desires\": \"To see extreme kinetic impact tests and high-energy target shooting visual effects.\",\n  \"audience_objections\": \"Airsoft videos might feel fake or weak compared to real firearms.\",\n  \"trust_signals\": \"Real-time impact footage, proper shooting range setup, clear side-by-side visual evidence.\",\n  \"entertainment_mechanics\": \"A/B comparison structure, comedic payoff (eating the edible airsoft apple vs holding pulverized apple dust), fast-cut editing timed to music.\",\n  \"teaching_style\": \"Visual comparison / Show-don't-tell demonstration\",\n  \"course_bridge\": \"Outro endcard displaying 'RESHOOT By Stafura' branding.\",\n  \"safety_signals\": \"Shooting downrange into an earthen backstop, wearing protective eyewear.\",\n  \"duration_seconds\": 18\n}",
+            "thoughtSignature": "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"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "index": 0
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 1727,
+    "candidatesTokenCount": 319,
+    "totalTokenCount": 2591,
+    "promptTokensDetails": [
+      {
+        "modality": "VIDEO",
+        "tokenCount": 1635
+      },
+      {
+        "modality": "TEXT",
+        "tokenCount": 92
+      }
+    ],
+    "thoughtsTokenCount": 545,
+    "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-3.6-flash",
+  "responseId": "kUyPapOZI7aznsEP5MX7mAU"
+}
